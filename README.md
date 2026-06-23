@@ -47,10 +47,11 @@ Supply Chain Operations Dataset
 ## Dashboard Screenshots
 
 ### CEO Dashboard
-![CEO Dashboard](screenshots/CEO_Dashboard.png)
+![CEO Dashboard](screenshots/CEO%20Dashboard.png)
+)
 
 ### CFO Dashboard
-![CFO Dashboard](screenshots/CFO_Dashboard.png)
+![CFO Dashboard](screenshots/CFO%20Dashboard.png)
 
 ### Manufacturing Dashboard
-![Manufacturing Dashboard](screenshots/Manufacturing_Dashboard.png)
+![Manufacturing Dashboard](screenshots/Manufacturing%20Dashboard.png)
